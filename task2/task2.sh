@@ -5,5 +5,5 @@ cd maxima/crosscompile-windows/build
 cmake ..
 make
 make package
-cd ../..
+cd ../../..
 mv maxima /tmp
